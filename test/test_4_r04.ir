@@ -1,0 +1,49 @@
+FUNCTION chengfa :
+PARAM i1
+PARAM i2
+PARAM i3
+i1 := i1 * i2
+i1 := i1 * i3
+RETURN i1
+
+FUNCTION sum :
+PARAM v1
+PARAM v2
+PARAM v3
+PARAM v4
+PARAM v5
+PARAM v6
+PARAM v7
+v1 := v1 + v2
+v1 := v1 + v3
+v1 := v1 + v4
+v1 := v1 + v5
+v1 := v1 - v6
+v1 := v1 + v7
+WRITE v1
+ARG v3
+ARG v2
+ARG v1
+v1 := CALL chengfa
+RETURN v1
+
+FUNCTION main :
+t1 := #1
+t2 := #2
+t3 := #3
+t4 := #4
+t5 := #5
+t6 := #6
+t7 := #7
+ARG t7
+ARG t6
+ARG t5
+ARG t4
+ARG t3
+ARG t2
+ARG t1
+t7 := CALL sum
+WRITE t7
+v16 := #0
+v17 := #1
+RETURN v16

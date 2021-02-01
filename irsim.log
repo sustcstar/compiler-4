@@ -1,0 +1,62 @@
+[DEBUG] 2021-01-08 02:55:36,600 (irsim.py 620): Parsed arguments: {'irpath': './sample/test_4_fact.ir', 'inputs': '5', 'logpath': 'irsim.log'}
+[INFO] 2021-01-08 02:55:36,600 (irsim.py 567): File loaded successfully
+[INFO] 2021-01-08 02:55:38,313 (irsim.py 567): Program has exited gracefully
+[INFO] 2021-01-08 02:55:38,314 (irsim.py 567): Total instructions = 45
+[INFO] 2021-01-08 02:56:05,727 (irsim.py 567): KeyboardInterrupt raised, quit program
+[DEBUG] 2021-01-08 03:20:06,211 (irsim.py 620): Parsed arguments: {'irpath': './test/test_4_r04.ir', 'inputs': '', 'logpath': 'irsim.log'}
+[ERROR] 2021-01-08 03:20:06,215 (irsim.py 581): Syntax error at line 1:
+FUNCTION eq_6_function:
+[ERROR] 2021-01-08 03:20:06,215 (irsim.py 581): Cannot find program entrance. Please make sure the 'main' function does exist
+[DEBUG] 2021-01-08 03:20:22,310 (irsim.py 620): Parsed arguments: {'irpath': './test/test_4_r04.ir', 'inputs': '', 'logpath': 'irsim.log'}
+[ERROR] 2021-01-08 03:20:22,312 (irsim.py 581): Syntax error at line 1:
+FUNCTION eq_6_function:
+[ERROR] 2021-01-08 03:20:22,313 (irsim.py 581): Cannot find program entrance. Please make sure the 'main' function does exist
+[DEBUG] 2021-01-08 03:20:34,105 (irsim.py 620): Parsed arguments: {'irpath': './test/test_4_r04.ir', 'inputs': '', 'logpath': 'irsim.log'}
+[ERROR] 2021-01-08 03:20:34,106 (irsim.py 581): Syntax error at line 1:
+FUNCTION eq_6_function:
+[ERROR] 2021-01-08 03:20:34,107 (irsim.py 581): Cannot find program entrance. Please make sure the 'main' function does exist
+[DEBUG] 2021-01-08 03:21:19,593 (irsim.py 620): Parsed arguments: {'irpath': './test/test_4_r04.ir', 'inputs': '', 'logpath': 'irsim.log'}
+[ERROR] 2021-01-08 03:21:19,594 (irsim.py 581): Syntax error at line 1:
+FUNCTION eq6function:
+[ERROR] 2021-01-08 03:21:19,595 (irsim.py 581): Cannot find program entrance. Please make sure the 'main' function does exist
+[DEBUG] 2021-01-08 03:21:34,186 (irsim.py 620): Parsed arguments: {'irpath': './test/test_4_r03.ir', 'inputs': '', 'logpath': 'irsim.log'}
+[INFO] 2021-01-08 03:21:34,187 (irsim.py 567): File loaded successfully
+[INFO] 2021-01-08 03:21:35,594 (irsim.py 567): KeyboardInterrupt raised, quit program
+[DEBUG] 2021-01-08 03:21:48,611 (irsim.py 620): Parsed arguments: {'irpath': './test/test_4_r01.ir', 'inputs': '', 'logpath': 'irsim.log'}
+[INFO] 2021-01-08 03:21:48,613 (irsim.py 567): File loaded successfully
+[INFO] 2021-01-08 03:21:49,831 (irsim.py 567): KeyboardInterrupt raised, quit program
+[DEBUG] 2021-01-08 03:22:08,125 (irsim.py 620): Parsed arguments: {'irpath': './test/test_4_r01.ir', 'inputs': '', 'logpath': 'irsim.log'}
+[INFO] 2021-01-08 03:22:08,127 (irsim.py 567): File loaded successfully
+[INFO] 2021-01-08 03:22:09,414 (irsim.py 567): KeyboardInterrupt raised, quit program
+[DEBUG] 2021-01-08 03:22:14,831 (irsim.py 620): Parsed arguments: {'irpath': './test/test_4_r04.ir', 'inputs': '', 'logpath': 'irsim.log'}
+[ERROR] 2021-01-08 03:22:14,833 (irsim.py 581): Syntax error at line 1:
+FUNCTION eq6function:
+[ERROR] 2021-01-08 03:22:14,834 (irsim.py 581): Cannot find program entrance. Please make sure the 'main' function does exist
+[DEBUG] 2021-01-08 03:22:41,247 (irsim.py 620): Parsed arguments: {'irpath': './test/test_4_r04.ir', 'inputs': '', 'logpath': 'irsim.log'}
+[ERROR] 2021-01-08 03:22:41,248 (irsim.py 581): Undefined label at line 28: v1 := CALL sum
+[ERROR] 2021-01-08 03:22:41,249 (irsim.py 581): Loading failed
+[DEBUG] 2021-01-08 03:22:53,646 (irsim.py 620): Parsed arguments: {'irpath': './test/test_4_r04.ir', 'inputs': '', 'logpath': 'irsim.log'}
+[INFO] 2021-01-08 03:22:53,648 (irsim.py 567): File loaded successfully
+[INFO] 2021-01-08 03:22:55,592 (irsim.py 567): Program has exited gracefully
+[INFO] 2021-01-08 03:22:55,593 (irsim.py 567): Total instructions = 28
+[INFO] 2021-01-08 03:23:57,029 (irsim.py 567): KeyboardInterrupt raised, quit program
+[DEBUG] 2021-01-08 03:23:58,647 (irsim.py 620): Parsed arguments: {'irpath': './test/test_4_r04.ir', 'inputs': '', 'logpath': 'irsim.log'}
+[INFO] 2021-01-08 03:23:58,648 (irsim.py 567): File loaded successfully
+[INFO] 2021-01-08 03:24:43,346 (irsim.py 567): Program has exited gracefully
+[INFO] 2021-01-08 03:24:43,346 (irsim.py 567): Total instructions = 28
+[INFO] 2021-01-08 03:24:54,390 (irsim.py 567): KeyboardInterrupt raised, quit program
+[DEBUG] 2021-01-08 03:25:21,237 (irsim.py 620): Parsed arguments: {'irpath': './test/test_4_r04.ir', 'inputs': '', 'logpath': 'irsim.log'}
+[INFO] 2021-01-08 03:25:21,238 (irsim.py 567): File loaded successfully
+[INFO] 2021-01-08 03:25:22,351 (irsim.py 567): Program has exited gracefully
+[INFO] 2021-01-08 03:25:22,354 (irsim.py 567): Total instructions = 28
+[INFO] 2021-01-08 03:25:30,317 (irsim.py 567): KeyboardInterrupt raised, quit program
+[DEBUG] 2021-01-08 04:51:52,107 (irsim.py 620): Parsed arguments: {'irpath': './test/test_4_r04.ir', 'inputs': '', 'logpath': 'irsim.log'}
+[INFO] 2021-01-08 04:51:52,108 (irsim.py 567): File loaded successfully
+[INFO] 2021-01-08 04:51:55,416 (irsim.py 567): Program has exited gracefully
+[INFO] 2021-01-08 04:51:55,417 (irsim.py 567): Total instructions = 30
+[INFO] 2021-01-08 04:51:59,392 (irsim.py 567): KeyboardInterrupt raised, quit program
+[DEBUG] 2021-01-08 04:56:03,518 (irsim.py 620): Parsed arguments: {'irpath': './test/test_4_r04.ir', 'inputs': '', 'logpath': 'irsim.log'}
+[INFO] 2021-01-08 04:56:03,518 (irsim.py 567): File loaded successfully
+[INFO] 2021-01-08 04:56:04,565 (irsim.py 567): Program has exited gracefully
+[INFO] 2021-01-08 04:56:04,566 (irsim.py 567): Total instructions = 34
+[INFO] 2021-01-08 04:56:06,012 (irsim.py 567): KeyboardInterrupt raised, quit program
